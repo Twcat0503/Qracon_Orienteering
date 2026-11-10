@@ -19,6 +19,7 @@
 | [`docs/01-open-questions.md`](docs/01-open-questions.md) | 19 個待決問題 + 建議 + 決策者 + 期限；決策日誌 | 總召、組長 |
 | [`docs/02-development-plan.md`](docs/02-development-plan.md) | 範圍（MoSCoW）、5 個 Sprint、關鍵路徑、風險表、崩潰計畫、本週待辦 | 工程、活動 |
 | [`docs/03-architecture-and-data-model.md`](docs/03-architecture-and-data-model.md) | 架構、完整 DDL、計分引擎規格、API、AI 審核、徽章 token、壓測 | 工程 |
+| [`docs/04-figma-board-review.md`](docs/04-figma-board-review.md) | Figma 設計板（2026-11-03 精簡版）頁面清單與規格落差、5 項待確認矛盾 | 設計、工程、總召 |
 | [`docs/source-hackmd.md`](docs/source-hackmd.md) | 原始 HackMD 快照（未編輯，僅供追溯） | 所有人 |
 
 ---
